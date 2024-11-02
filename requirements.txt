@@ -1,0 +1,7 @@
+scikit-surprise
+pandas
+matplotlib
+seaborn
+scikit-learn
+ipykernel
+numpy<2
